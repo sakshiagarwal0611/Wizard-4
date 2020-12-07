@@ -26,22 +26,22 @@
                     "Birthday": ""
                 }
             ],
-            "url": "https://test-appdiksha.herokuapp.com//execute"
+            "url": "https://wizard-sakshi.herokuapp.com/activity/execute"
         }
     },
     "configurationArguments": {
          "applicationExtensionKey": "f5d69ca3-90df-4007-8ce6-3c12ac2644ab",
        "save": {
-           "url": "https://test-appdiksha.herokuapp.com/activity/save"
+           "url": "https://wizard-sakshi.herokuapp.com/activity/activity/save"
        },
        "publish": {
-           "url": "https://test-appdiksha.herokuapp.com/activity/publish"
+           "url": "https://wizard-sakshi.herokuapp.com/activity/publish"
        },
        "validate": {
-           "url": "https://test-appdiksha.herokuapp.com/activity/validate"
+           "url": "https://wizard-sakshi.herokuapp.com/activity/validate"
        },
        "stop": {
-           "url": "https://test-appdiksha.herokuapp.com/activity/stop"
+           "url": "https://wizard-sakshi.herokuapp.com/activity/stop"
        }
     },
     "wizardSteps": [
